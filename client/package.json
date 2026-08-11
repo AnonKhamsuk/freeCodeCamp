@@ -176,7 +176,7 @@
     "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.32",
     "i18next-fs-backend": "2.6.5",
     "joi": "18.1.2",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.3.1",
     "monaco-editor-webpack-plugin": "7.1.1",
     "react-test-renderer": "18.3.1",
     "readdirp": "3.6.0",
